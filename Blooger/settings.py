@@ -25,7 +25,7 @@ SECRET_KEY = '1453xu(lb@(uv#+)z9ccjwy(awiod8n6sa@3&*oyv9gz#s#aj='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['bloooger.herokuapp.com']
 
 
 # Application definition
